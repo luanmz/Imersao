@@ -5,4 +5,4 @@ print(a+b)
 def soma (num1,num2):
     return (num1+num2)
 
-print(soma(a,b))
+print(soma(12,b))
